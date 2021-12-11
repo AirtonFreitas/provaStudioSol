@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="largura_img_LED">50dp</dimen>
+    <dimen name="altura_img_LED">7dp</dimen>
+    <dimen name="altura_cx_led">137dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
